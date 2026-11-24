@@ -1,0 +1,118 @@
+// PRUEBA 1
+
+ESCOGER
+1--calcular subtotal
+2--contar unidades
+3--calcular el valor del inventario
+4--salir
+
+seleccione la opcion que desea utilizar: 1
+
+
+Digite el precio del producto: 1500
+
+Digite la cantidad que desea llevar del producto: 2
+
+
+El subtotal es de 3000
+
+// PRUEBA 2
+
+ESCOGER
+1--calcular subtotal
+2--contar unidades
+3--calcular el valor del inventario
+4--salir
+
+seleccione la opcion que desea utilizar: 1
+
+
+Digite el precio del producto: 8000
+
+Digite la cantidad que desea llevar del producto: 3
+
+
+El subtotal es de 24000
+
+
+// PRUEBA 3
+
+ESCOGER
+1--calcular subtotal
+2--contar unidades
+3--calcular el valor del inventario
+4--salir
+
+seleccione la opcion que desea utilizar: 1
+
+
+Digite el precio del producto: 8000
+
+Digite la cantidad que desea llevar del producto: 0
+
+El precio y la cantidad deben ser mayores a 0
+
+// PRUEBA 4
+
+
+ESCOGER
+1--calcular subtotal
+2--contar unidades
+3--calcular el valor del inventario
+4--salir
+
+seleccione la opcion que desea utilizar: 2
+
+
+CONTANDO UNIDADES
+El total de unidades es 33
+
+
+// PRUEBA 5
+
+ESCOGER
+1--calcular subtotal
+2--contar unidades
+3--calcular el valor del inventario
+4--salir
+
+seleccione la opcion que desea utilizar: 2
+
+
+CONTANDO UNIDADES
+El total de unidades es 0
+
+
+// PRUEBA 6
+
+ESCOGER
+1--calcular subtotal
+2--contar unidades
+3--calcular el valor del inventario
+4--salir
+
+seleccione la opcion que desea utilizar: 3
+
+
+VALOR DEL INVENTARIO
+El valor total del inventario es 97500
+
+// PRUEBA 7
+
+
+ESCOGER
+1--calcular subtotal
+2--contar unidades
+3--calcular el valor del inventario
+4--salir
+
+seleccione la opcion que desea utilizar: 3
+
+
+VALOR DEL INVENTARIO
+El valor total del inventario es 0
+
+//PRUEBA 8 
+
+SI FUNCIONA
+
